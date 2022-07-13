@@ -1,0 +1,30 @@
+{
+    "nombre": "Leandro",
+    "apellido": "Pafundi",
+    "lenguajes": ["HTML, CSS, Javascript, Python" ],
+    "edad": 30,
+    "experiencia": [
+        {
+            "empresa": "Microsoft",
+            "antiguedad": 5
+        },
+        {
+            "empresa": "Google",
+            "antiguedad": 2
+        }
+    ],
+    "direccion":{
+        "calle": "Av.Santa Fe 430",
+        "ciudad": "San Isidro, PBA",
+        "pago_agua":[
+            {
+                "id": 0,
+                "fecaha": "mayo 2022"
+            },
+            {
+                "id": 1,
+                "fecaha": "junio 2022"
+            }
+        ]
+    }
+}
